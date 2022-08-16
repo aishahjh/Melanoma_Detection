@@ -32,6 +32,7 @@ Three custom CNN models were built and the final model performed better both in 
  
 The result of the third model: 
  
+![image](https://user-images.githubusercontent.com/100279497/184877684-c7879be7-bca3-4ad7-9956-7dd0458e27ba.png)
 
 
 ## Contact
